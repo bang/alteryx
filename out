@@ -1,0 +1,7 @@
+export HTTPFS_SSL_ENABLED=false
+export HTTPFS_HTTP_HOSTNAME=localhost
+export HTTPFS_TEMP=/usr/local/hadoop/temp
+export HTTPFS_HTTP_PORT=14000
+export HTTPFS_HOME=/usr/local/hadoop
+export HTTPFS_LOG=/usr/local/hadoop/logs
+export HTTPFS_ADMIN_PORT=14001
